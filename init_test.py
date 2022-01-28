@@ -4,6 +4,7 @@ because, other instances of that same class might refer to that same
 object as well.
 I wanted to check this. I believe that they would have noticed this
 in Google if it's true. Pylint doesn't give any warnings about it.
+That's strange.
 """
 
 from typing import List
